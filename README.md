@@ -1,4 +1,4 @@
-# chunker
+# Chunker
 CLI tool to chunk up things!
 
 ## Examples
